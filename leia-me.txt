@@ -1,6 +1,6 @@
 Para compilar este projeto em caso de linux, use o seguinte comando no terminal:
 
-gcc menu.c -o menu -lallegro -lallegro_image -lallegro_primitives -lallegro_font -lallegro_ttf -lallegro_audio -lallegro_acodec -lm
+gcc jogo.c -o jogo -lallegro -lallegro_image -lallegro_primitives -lallegro_font -lallegro_ttf -lallegro_audio -lallegro_acodec -lm
 
 Depois, para rodar:
-./menu
+./jogo
