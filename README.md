@@ -47,10 +47,10 @@ git clone [https://github.com/Rogerllc/PebaHunt.git](https://github.com/Rogerllc
 cd PebaHunt
 
 **Compile o codigo: Utilizando o comando a baixo**
-gcc main.c -o PebaHunt -lallegro -lallegro_image -lallegro_primitives -lallegro_font -lallegro_ttf -lallegro_audio -lallegro_acodec -lm
+gcc jogo.c -o jogo -lallegro -lallegro_image -lallegro_primitives -lallegro_font -lallegro_ttf -lallegro_audio -lallegro_acodec -lm
 
 **Execute  jogo**
-./PebaHunt
+./jogo
 ```
 ## Desenvolvedores
 - **Projeto desenvolvido para a disciplina de Algoritmos e Estrutura de Dados I (2025.1).**
