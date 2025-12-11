@@ -38,7 +38,7 @@ O objetivo do jogador é acertar os tatus ("pebas") que aparecem aleatoriamente 
 Você precisa ter o compilador **GCC** e as bibliotecas de desenvolvimento do **Allegro 5** instaladas no seu sistema.
 
 ## No Windows:
-Basta apenas abrir o arquivo executavel "project2.exe" ou o arquivo "jogo".
+Basta apenas abrir o arquivo executavel **"project2.exe"** ou o arquivo **"jogo"**.
 
 #### No Linux (Ubuntu/Debian):
 ```bash
